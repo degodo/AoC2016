@@ -1,0 +1,8 @@
+[package]
+name = "AoC2016"
+version = "0.0.0"
+edition = "2021"
+description = "Solving the Advent of Code 2016"
+
+[dependencies]
+itertools = "^0.10.0"

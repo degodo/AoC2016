@@ -1,0 +1,16 @@
+{
+    "editor.guides.bracketPairs": true,
+    "rust-analyzer.inlayHints.maxLength": 60,
+    "launch": {
+        "configurations": [],
+        "compounds": []
+    },
+    "rust-analyzer.inlayHints.lifetimeElisionHints.enable": "skip_trivial",
+    "rust-analyzer.inlayHints.expressionAdjustmentHints.enable": "never",
+    "rust-analyzer.inlayHints.reborrowHints.enable": "never",
+    "rust-analyzer.inlayHints.closureReturnTypeHints.enable": "always",
+    "livePreview.serverRoot": "",
+    "livePreview.notifyOnOpenLooseFile": false,
+    "livePreview.defaultPreviewPath": "target/doc/AoC2016/index.html",
+
+}
