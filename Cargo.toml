@@ -1,8 +1,10 @@
 [package]
 name = "AoC2016"
-version = "0.4.0"
+version = "0.5.0"
 edition = "2021"
 description = "Solving the Advent of Code 2016"
 
 [dependencies]
+generic-array = "~0.14.0"
 itertools = "^0.10.0"
+md-5 = "~0.10.0"
